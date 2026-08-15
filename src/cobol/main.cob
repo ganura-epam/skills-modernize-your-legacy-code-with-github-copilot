@@ -14,7 +14,7 @@
                DISPLAY "1. View Balance"
                DISPLAY "2. Credit Account"
                DISPLAY "3. Debit Account"
-               DISPLAY "4. Exit"1
+               DISPLAY "4. Exit"
                DISPLAY "--------------------------------"
                DISPLAY "Enter your choice (1-4): "
                ACCEPT USER-CHOICE
